@@ -1,0 +1,5 @@
+Oxen;40.00
+Food;0.20
+Clothing;10.00
+Ammunition;2.00
+Wagon Parts;10.00
